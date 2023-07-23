@@ -1,10 +1,10 @@
-### Hi there, I'm Komang Mada👋
+### Hey, kamu I'm Komang Mada👋
 
-### and here is my stats
-<p align="center"><img src="[https://www.codewars.com/users/SatriaAPN/badges/large](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fishidafalido%2Fart%2FSIGNATURE-BANNER-Zero-Two-903831742&psig=AOvVaw2B34Fb4P7cwpDdABfajQ9A&ust=1690203436913000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjSy96SpIADFQAAAAAdAAAAABAE)"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+### and here adalah status 
+<p align="center"><img src="https://www.codewars.com/users/Komang Mada/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Komang Mada&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komang Mada&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komang Mada&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 <!--
