@@ -1,10 +1,10 @@
 ### Hey, kamu I'm Komang Mada👋
 
 ### and here adalah status 
-<p align="center"><img src="https://www.codewars.com/users/Komang Mada/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Komang Mada&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komang Mada&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komang Mada&layout=compact&theme=monokai&langs_count=12"/><br />
+<p align="center"><img src="https://www.codewars.com/users/YahMada/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=YahMada&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahMada&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahMada&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 <!--
