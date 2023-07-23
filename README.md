@@ -1,7 +1,6 @@
 ### Hey, kamu I'm Komang Mada👋
 
-### and here adalah status 
-### and here is my stats
+### and here adalah status
 <p align="center"><img src="https://www.codewars.com/users/Yahmada/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Yahmada&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahmada&theme=monokai"/>
