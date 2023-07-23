@@ -1,4 +1,4 @@
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+### Hi there, I'm Komang Mada👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
@@ -8,7 +8,7 @@
 </p>
 
 <!--
-**SatriaAPN/SatriaAPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yahmada/Wilwatikta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
